@@ -12,3 +12,13 @@ Setelah meng-clone kedua repository, kita bisa menjalankan kode WebsocketServer 
 <br>
 
 ![communication](documentation/playwithit.png)
+
+### 3.2. Add some creativities to the webclient
+![be_creative](documentation/creative.png)
+<br>
+Modifikasi yang saya lakukan:
+1. Menambahkan avatar untuk foto profil user dengan mengganti url `dicebear` yang tidak valid
+2. Mengganti warna latar belakang pada bagian daftar user menjadi pink
+3. Mengganti warna border menjadi ungu pada bagian chat
+<br>
+Semua perubahan tersebut dilakukan di `src/components/chat.rs`
